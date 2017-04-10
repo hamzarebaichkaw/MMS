@@ -1,0 +1,33 @@
+{% include'@MMS/MainLayout/header.html.twig' %}
+{% block aimeos_styles %}{% endblock %}
+
+
+
+{% block aimeos_head %}{% endblock %}
+<div class="eltd-content" style="margin-top: -114px">
+
+                <div data-eltd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid eltd-section vc_custom_1459156569874 eltd-content-aligment-center eltd-parallax-section-holder eltd-parallax-section-holder-touch-disabled eltd-grid-section eltd-full-screen-height-parallax eltd-vertical-middle-align" style="background-image:url({{ asset('assets/img/03/blog-title.jpg') }} );">
+                    <div class="eltd-custom-font-holder" style="font-family: Poppins;font-size: 24px;line-height: 30px;font-weight: 50;letter-spacing: 0px;text-align: center;color: #ffffff" data-font-size= 30 data-line-height= 9>{% block aimeos_nav %}{% endblock %}
+                        {% block aimeos_stage %}{% endblock %}
+                        Find the Best Places to Be</div>
+                    <div class="wpb_text_column wpb_content_element ">
+                        <div class="wpb_wrapper">
+                            <h4 style="text-align: center; font-weight: 400;"><span style="color: #ffffff;">All the top locations &#8211; from restaurants and clubs, to cinemas, galleries, and more.</span></h4>
+
+                        </div>
+                    </div>
+                    <div class="vc_empty_space"  style="height: 60px" ><span class="vc_empty_space_inner"></span></div>
+                </div>
+                </div>
+</div>
+
+
+<div class="col-xs-12">
+
+    {% block aimeos_body %}{% endblock %}
+    {% block aimeos_aside %}{% endblock %}
+</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+{% block aimeos_scripts %}{% endblock %}
+{% include '@MMS/MainLayout/footer.html.twig' %}

@@ -1,0 +1,1216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Aimeos <aimeos@aimeos.org>, 2016
+# Branislav Blaskovic <blaskovic.branislav@gmail.com>, 2015
+# Tomas G <tomas.gmitro@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-16 23:34+0200\n"
+"PO-Revision-Date: 2016-07-16 21:36+0000\n"
+"Last-Translator: Aimeos <aimeos@aimeos.org>\n"
+"Language-Team: Slovak (http://www.transifex.com/aimeos/aimeos-core/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. / price format with value (%1$s) and currency (%2$s)
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+msgid "Actual current price"
+msgstr "Aktuálna cena"
+
+msgid "Add"
+msgstr "Pridať"
+
+msgid "Add filter"
+msgstr "Pridať filter"
+
+msgid "Additional"
+msgstr "Dodatočné"
+
+msgid "Additional information, e.g. flat number"
+msgstr "Ďalšie informácie, napr. číslo bytu"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Address 1"
+msgstr "Adresa 1"
+
+msgid "Address 2"
+msgstr "Adresa 2"
+
+msgid "Address 3"
+msgstr "Adresa 3"
+
+msgid "Address ID"
+msgstr "Adresa ID"
+
+msgid "Addresses"
+msgstr "Adresy"
+
+msgid "All"
+msgstr "Všetko"
+
+msgid "Associated attributes"
+msgstr "Spojené atribúty"
+
+msgid "Associated customer groups"
+msgstr "Spojené zákaznické skupiny"
+
+msgid "Associated customers"
+msgstr "Spojený zákazníci"
+
+msgid "Associated media"
+msgstr "Spojené médiá"
+
+msgid "Associated prices"
+msgstr "Spojené ceny"
+
+msgid "Associated products"
+msgstr "Spojené produkty"
+
+msgid "Associated tags"
+msgstr "Spojené značky"
+
+msgid "Associated texts"
+msgstr "Spojené texty"
+
+msgid "Attribute"
+msgstr "Atribút"
+
+msgid "Attribute type"
+msgstr "Typ atribútu"
+
+#. : Attribute type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Attribute type: {0} ({1})"
+msgstr "Typ atribútu: {0} ({1})"
+
+#. : Attribute item panel title with attribute label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Attribute: {0} ({1})"
+msgstr "Atribút: {0} ({1})"
+
+msgid "Attributes"
+msgstr "Atribúty"
+
+msgid "Available attributes"
+msgstr "Dostupné atribúty"
+
+msgid "Available customer groups"
+msgstr "Dostupné skupiny zákazníkov"
+
+msgid "Available customers"
+msgstr "Dostupní zákazníci"
+
+msgid "Available media"
+msgstr "Dostupné média"
+
+msgid "Available prices"
+msgstr "Dostupné ceny"
+
+msgid "Available products"
+msgstr "Dostupné produkty"
+
+msgid "Available tags"
+msgstr "Dostupné značky"
+
+msgid "Available texts"
+msgstr "Dostupné texty"
+
+msgid "Back in stock"
+msgstr "Späť na sklade"
+
+msgid "Base ID"
+msgstr "Základné ID"
+
+msgid "Basic"
+msgstr "Základné"
+
+msgid "Billing address"
+msgstr "Fakturačná adresa"
+
+msgid "Birthday"
+msgstr "Dátum narodenia"
+
+msgid "Bundles"
+msgstr "Zväzky"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Cache item details"
+msgstr "Detail položky cache"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Catalog"
+msgstr "Katalóg"
+
+#. : Catalog item panel title with catalog label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Catalog: {0} ({1})"
+msgstr "Katalóg: {0} ({1})"
+
+msgid "Categories"
+msgstr "Kategórie"
+
+msgid "Characteristics"
+msgstr "Charakteristika"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "City name (required)"
+msgstr "Mesto (povinné)"
+
+msgid "Clear"
+msgstr "Vyprázdniť "
+
+msgid "Click to upload"
+msgstr "Klikni a nahraj"
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Codes"
+msgstr "Kódy"
+
+msgid "Columns"
+msgstr "Stĺpce"
+
+msgid "Comment"
+msgstr "Komentár"
+
+msgid "Company"
+msgstr "Spoločnosť"
+
+msgid "Company name"
+msgstr "Názov spoločnosti"
+
+msgid "Configuration"
+msgstr "Konfigurácia"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "Costs"
+msgstr "Poplatky"
+
+msgid "Costs per item"
+msgstr "Poplatky na položku"
+
+msgid "Could not upload file. Please notify your administrator"
+msgstr "Nepodarilo sa nahrať súbor. Prosím kontakujte administrátora."
+
+msgid "Count"
+msgstr "Počet"
+
+msgid "Country"
+msgstr "Krajina"
+
+msgid "Country code"
+msgstr "Kód krajiny"
+
+msgid "Country state, e.g. \"NY\""
+msgstr "Názov kraju, napr. \"Bratislavský\""
+
+msgid "Coupon"
+msgstr "Kupón"
+
+msgid "Coupon code"
+msgstr "Kód kupónu"
+
+#. : Coupon code item panel title with coupon code ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Coupon code: {0} ({1})"
+msgstr "Kód kupónu: {0} ({1})"
+
+#. : Coupon item panel title with coupon label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Coupon: {0} ({1})"
+msgstr "Kupón: {0} ({1})"
+
+msgid "Coupons"
+msgstr "Kupóny"
+
+msgid "Created"
+msgstr "Vytvorené"
+
+msgid "Currency"
+msgstr "Mena"
+
+msgid "Currency (required)"
+msgstr "Mena (povinné)"
+
+msgid "Customer"
+msgstr "Zákazník"
+
+#. : Customer address item panel title with customer name ({0}) and site code
+#. ({1)}
+#. : Customer address item panel title with customer name ({0}) and site code
+#. ({1)}
+#, python-brace-format
+msgid "Customer address: {0} ({1})"
+msgstr "Adresa zákazníka: {0} ({1})"
+
+#. : Customer group item panel title with customer name ({0}) and site code
+#. ({1)}
+#. : Customer group item panel title with customer name ({0}) and site code
+#. ({1)}
+#, python-brace-format
+msgid "Customer group: {0} ({1})"
+msgstr "Zákaznícka skupina: {0} ({1})"
+
+#. : Customer item panel title with customer label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Customer: {0} ({1})"
+msgstr "Zákazník: {0} ({1})"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Date back"
+msgstr "Dátum vrátenia"
+
+msgid "Default"
+msgstr "Predvolené"
+
+msgid "Delete"
+msgstr "Zmazať"
+
+msgid "Delete items?"
+msgstr "Zmazať položky?"
+
+msgid "Delivery address"
+msgstr "Adresa doručenia"
+
+msgid "Delivery date"
+msgstr "Dátum doručenia"
+
+msgid "Delivery status"
+msgstr "Stav doručenia"
+
+msgid "Delivery types"
+msgstr ""
+
+msgid "Details"
+msgstr "Detaily"
+
+msgid "Display field is empty"
+msgstr "Pole zobrazenie je prázdne"
+
+msgid "Domain"
+msgstr "Doména"
+
+msgid "Domain (required)"
+msgstr "Doména (povinné)"
+
+msgid "Download"
+msgstr "Stiahnúť"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "E-Mail, e.g. me@example.com (required)"
+msgstr "E-mail, napr. me@example.com (povinné)"
+
+msgid "EAN, SKU or article number (required)"
+msgstr "EAN, SKU alebo kód artiklu (povinné)"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "End date"
+msgstr "Konečný dátum"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Expert mode"
+msgstr "Expert mód"
+
+msgid "Expires"
+msgstr "Expiruje"
+
+msgid "Export"
+msgstr "Exportovať"
+
+msgid "Export successful"
+msgstr "Exportovanie úspešné"
+
+msgid "Facility"
+msgstr "Zariadenie"
+
+msgid "Facsimile number, e.g. +155512345"
+msgstr "Fax číslo, napr. +155512345"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "File URL"
+msgstr "Adresa URL súboru"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "First"
+msgstr "Prvý"
+
+msgid "First name"
+msgstr "Krstné meno"
+
+msgid "Firstname"
+msgstr "Krstné meno"
+
+msgid "Flush"
+msgstr "Vyprázdniť "
+
+msgid "Flush cache?"
+msgstr "Vyprázdniť cache?"
+
+msgid "Full name"
+msgstr "Celé meno"
+
+msgid "Full name (required)"
+msgstr "Celé meno (povinné)"
+
+msgid "Group"
+msgstr "Skupina"
+
+msgid "Group label (required)"
+msgstr "Štítok skupiny (povinné)"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Honorary title"
+msgstr "Titul oslovenia"
+
+msgid "House no"
+msgstr "Súpisné č."
+
+msgid "House number"
+msgstr "Súpisné číslo"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Images"
+msgstr "Obrázky"
+
+msgid "Import"
+msgstr "Importovať"
+
+msgid "Internal name"
+msgstr "Interný názov"
+
+msgid "Internal name (required)"
+msgstr "Interný názov (povinné)"
+
+#, python-brace-format
+msgid "Invalid action \"{0}\""
+msgstr "Neplatná akcia \"{0}\""
+
+msgid "Invalid data"
+msgstr "Neplatné dáta"
+
+#, python-brace-format
+msgid "Invalid value for configuration key \"{0}\""
+msgstr "Neplatná hodnota pre konfiguračný klúč \"{0}\""
+
+msgid "Invoice"
+msgstr "Faktúra"
+
+msgid "Item position within the same type"
+msgstr "Pozícia položky v rámci toho istého druhu"
+
+msgid "Job item details"
+msgstr "Detaily Jobu"
+
+msgid "Jobs"
+msgstr "Joby"
+
+msgid "Label"
+msgstr "Štítok"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Language (required)"
+msgstr "Jazyk (povinné)"
+
+msgid "Last"
+msgstr "Posledné"
+
+msgid "Last modified"
+msgstr "Naposledy upravené"
+
+msgid "Last name"
+msgstr "Priezvisko"
+
+msgid "Last name (required)"
+msgstr "Priezvisko (povinné)"
+
+msgid "Lastname"
+msgstr "Priezvisko"
+
+msgid "Latest orders"
+msgstr ""
+
+msgid "Length"
+msgstr "Dĺžka"
+
+msgid "List"
+msgstr "Záznam"
+
+msgid "List ID"
+msgstr "ID záznamu"
+
+msgid "List Status"
+msgstr "Stav záznamu"
+
+msgid "List creation time"
+msgstr "Záznam vytvorený"
+
+msgid "List editor"
+msgstr "Editor záznamu"
+
+msgid "List end date"
+msgstr "Dátum platnosti záznamu"
+
+msgid "List item details"
+msgstr "Detail položky záznamu"
+
+msgid "List modification time"
+msgstr "Posledné úpravy záznamu"
+
+msgid "List position"
+msgstr "Pozícia záznamu"
+
+msgid "List start date"
+msgstr "Platnosť záznamu od"
+
+msgid "List type"
+msgstr "Typ záznamu"
+
+msgid "Loading"
+msgstr "Načítam"
+
+msgid "Locale"
+msgstr "Lokalizácia"
+
+#. : Locale currency item panel title with currency label ({0}) and currency
+#. code ({1)}
+#. : Locale currency item panel title with currency label ({0}) and currency
+#. code ({1)}
+#, python-brace-format
+msgid "Locale currency: {0} ({1})"
+msgstr "Mena lokalizácie: {0} ({1})"
+
+#. : Locale item panel title with site code ({1)}
+#, python-brace-format
+msgid "Locale item details ({1})"
+msgstr "Dátum lokalizácie položky ({1})"
+
+#. : Locale language item panel title with language label ({0}) and language
+#. code ({1)}
+#. : Locale language item panel title with language label ({0}) and language
+#. code ({1)}
+#, python-brace-format
+msgid "Locale language: {0} ({1})"
+msgstr "Jazyk lokalizácie: {0} ({1})"
+
+#. : Locale site item panel title with site label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Locale site: {0} ({1})"
+msgstr "Lokalizácia stránky: {0} ({1})"
+
+msgid "Logs"
+msgstr "Logy"
+
+msgid "Long description"
+msgstr "Širiší popis"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Media type"
+msgstr "Typ média"
+
+#. : Media type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Media type: {0} ({1})"
+msgstr "Média typ: {0} ({1})"
+
+#. : Media item panel title with media label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Media: {0} ({1})"
+msgstr "Média: {0} ({1})"
+
+msgid "Message"
+msgstr "Správa"
+
+msgid "Meta description"
+msgstr "Meta popis"
+
+msgid "Meta keywords"
+msgstr "Meta klúčové slová"
+
+msgid "Method"
+msgstr "Metóda"
+
+msgid "Mimetype"
+msgstr "Mimetype"
+
+msgid "Minimum quantity"
+msgstr "Minimálny počet"
+
+msgid "Miss"
+msgstr "Slečna"
+
+msgid "Mr"
+msgstr "Pán"
+
+msgid "Mrs"
+msgstr "Paní"
+
+msgid "Name"
+msgstr "Meno"
+
+msgid "Name of the coupon provider class (required)"
+msgstr "Názov triedy poskytovateľa kupónu (povinné)"
+
+msgid "Name of the plugin provider class (required)"
+msgstr "Názov triedy poskytovateľa rozšírenia (povinné)"
+
+msgid "Name of the service provider class (required)"
+msgstr "Názov triedy poskytovateľa služby (povinné)"
+
+msgid "Next"
+msgstr "Ďalší"
+
+msgid "No error information available"
+msgstr "Žiadné dostupné chybové hlásenia"
+
+msgid "No items"
+msgstr "Žiadné položky"
+
+msgid "Not implemented"
+msgstr "Neimplmentované"
+
+msgid "Notice"
+msgstr "Oznámenie"
+
+msgid "Option"
+msgstr "Varianta"
+
+msgid "Order"
+msgstr "Objednávka"
+
+msgid "Order item details"
+msgstr "Detail polžky objednávky"
+
+msgid "Order product ID"
+msgstr "ID produktu objednávky"
+
+msgid "Orders by day"
+msgstr ""
+
+msgid "Orders by hour"
+msgstr ""
+
+msgid "Orders by payment status"
+msgstr ""
+
+msgid "Overview"
+msgstr "Prehľad"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Strana %1$d z %2$d"
+
+msgid "Parameter"
+msgstr "Parameter"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password (required)"
+msgstr "Heslo (povinné)"
+
+msgid "Path"
+msgstr "Cesta"
+
+msgid "Payment date"
+msgstr "Dátum platby"
+
+msgid "Payment status"
+msgstr "Stav platby"
+
+msgid "Payment types"
+msgstr ""
+
+msgid "Physical values"
+msgstr "Fyzikálne hodnoty"
+
+msgid "Please recheck your data"
+msgstr "Prosím potvrdťe svoje dáta"
+
+msgid "Please save the coupon first before you can add codes"
+msgstr "Prosím uložte Váš kupón ešte pred pridaním kódov "
+
+msgid ""
+"Please select an item on the right side and add it via drag and drop to this"
+" list."
+msgstr "Prosím vyberte si položku z prava a pridajte ju prostredníctvom drag & drop do zoznamu."
+
+msgid "Plugin"
+msgstr "Rozšírenie"
+
+msgid "Plugin type"
+msgstr "Typ rozšírenia"
+
+#. : Plugin type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Plugin type: {0} ({1})"
+msgstr "Typ rozšírenia: {0} ({1})"
+
+#. : Plugin item panel title with attribute label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Plugin: {0} ({1})"
+msgstr "Rozšírenie: {0} ({1})"
+
+msgid "Position"
+msgstr "Pozícia"
+
+msgid "Postal code"
+msgstr "Poštové smerové číslo"
+
+msgid "Preview"
+msgstr "Náhľad"
+
+msgid "Preview URL"
+msgstr "Náhľad URL"
+
+msgid "Previous"
+msgstr "Predchádzajúce"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Price type"
+msgstr "Typ ceny"
+
+#. : Price type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Price type: {0} ({1})"
+msgstr "Typ ceny: {0} ({1})"
+
+#. : Price item panel title with price label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Price: {0} ({1})"
+msgstr "Cena: {0} ({1})"
+
+msgid "Prices"
+msgstr "Ceny"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Product ID"
+msgstr "ID produktu"
+
+msgid "Product code"
+msgstr "Kód produktu"
+
+msgid "Product costs"
+msgstr "Poplatky produktu"
+
+msgid "Product height, e.g. 20.0 (in yard, inch, etc.)"
+msgstr "Výška produktu, napr. 20.0 (cm, mm, ...)"
+
+msgid "Product item details"
+msgstr "Detaily položky produktu"
+
+msgid "Product length, e.g. 30.0 (in yard, inch, etc.)"
+msgstr "Dĺžka produktu, napr. 30.0 (cm, mm, ...)"
+
+msgid "Product name"
+msgstr "Názov produktu"
+
+msgid "Product price"
+msgstr "Cena produktu"
+
+msgid "Product property type"
+msgstr "Typ vlastnosti produktu"
+
+#. : Product property.type item panel title with type label ({0}) and site
+#. code ({1)}
+#. : Product property type item panel title with type label ({0}) and site
+#. code ({1)}
+#, python-brace-format
+msgid "Product property type: {0} ({1})"
+msgstr "Typ vlastnosti produktu: {0} ({1})"
+
+msgid "Product quantity"
+msgstr "Množstvo produktu"
+
+msgid "Product rebate"
+msgstr "Rabat produktu"
+
+msgid "Product stock"
+msgstr "Zásoba produktu"
+
+msgid "Product supplier (optional)"
+msgstr "Dodávateľ produktu (voliteľné)"
+
+#. : Product tag item panel title with product label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Product tag: {0} ({1})"
+msgstr "Štítok produktu: {0} ({1})"
+
+msgid "Product tax rate"
+msgstr "Sadzba DPH produktu"
+
+msgid "Product type"
+msgstr "Typ produktu"
+
+#. : Product type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Product type: {0} ({1})"
+msgstr "Typ produktu: {0} ({1})"
+
+msgid "Product weight, e.g. 1.25 (in pound, ounce, etc.)"
+msgstr "Váha produktu, napr. 1.25 (v kg, g, ...)"
+
+msgid "Product width, e.g. 17.5 (in yard, inch etc.)"
+msgstr "Šírka produktu: napr. 17.5 (v cm, mm, ...)"
+
+#. : Product item panel title with product label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Product: {0} ({1})"
+msgstr "Produkt: {0} ({1})"
+
+msgid "Products"
+msgstr "Produkty"
+
+msgid "Promotion"
+msgstr "Propagácia"
+
+msgid "Properties"
+msgstr "Vlastnosti"
+
+msgid "Property"
+msgstr "Vlastnosť"
+
+msgid "Property value (required)"
+msgstr "Hodnota vlastnosti (povinné)"
+
+msgid "Provider"
+msgstr "Poskytovateľ"
+
+msgid "Purchase date"
+msgstr "Dátum nákupu"
+
+msgid "Quantity"
+msgstr "Množstvo"
+
+msgid "Quantity or empty if unlimited (optional)"
+msgstr "Množstvo alebo prázdne ak nekonečno (voliteľné)"
+
+msgid "Rebate"
+msgstr "Rabat"
+
+msgid "Ref-ID"
+msgstr "Ref. ID"
+
+msgid "Related order ID"
+msgstr "Súvisiaci ID objednávky"
+
+msgid "Remove filter"
+msgstr "Zrušiť filter"
+
+msgid "Replace file"
+msgstr "Nahradiť súbor"
+
+msgid "Request"
+msgstr "Požiadavka"
+
+msgid "Result"
+msgstr "Výsledok"
+
+msgid "Salutation"
+msgstr "Oslovenie"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Saving"
+msgstr "Ukladám"
+
+#, python-brace-format
+msgid "Schema {0} is  not registered"
+msgstr "Schéma {0} nie je registrovaná"
+
+msgid "Search"
+msgstr "Hľadať"
+
+#, python-brace-format
+msgid "Search schema {0} is  not registered"
+msgstr "Schéma pre hľadanie  {0}  nie je registrovaná"
+
+msgid "Select Item"
+msgstr "Označiť položku"
+
+msgid "Select languages to export"
+msgstr "Označte jazyky pre export"
+
+msgid "Service"
+msgstr "Služba"
+
+msgid "Service ID"
+msgstr "ID služby"
+
+msgid "Service fees"
+msgstr "Poplatky služby"
+
+msgid "Service item details"
+msgstr "Detaily položky služby"
+
+msgid "Service type"
+msgstr "Typ služby"
+
+#. : Service type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Service type: {0} ({1})"
+msgstr "Typ služby: {0} ({1})"
+
+#. : Service item panel title with service label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Service: {0} ({1})"
+msgstr "Služba: {0} ({1})"
+
+msgid "Services"
+msgstr "Služby"
+
+msgid "Short description"
+msgstr "Krátky popis"
+
+msgid "Simple mode"
+msgstr "Jednoduchý mód"
+
+msgid "Site"
+msgstr "Stránka"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+msgid "Sorry, adding orders manually is currently not implemented"
+msgstr "Prepáčte, zadávanie objednávok ručne zatiaľ nie je podporované"
+
+msgid "Source"
+msgstr "Zdroj"
+
+msgid "Start date"
+msgstr "Dátum začiatku"
+
+msgid "State"
+msgstr "Štát"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stock"
+msgstr "Zásoba"
+
+msgid "Stock level"
+msgstr "Množstvo v zásobe"
+
+msgid "Street"
+msgstr "Ulica"
+
+msgid "Street (required)"
+msgstr "Ulica (povinné)"
+
+msgid "Substracted rebate amount"
+msgstr "Odpočítany rabat"
+
+msgid "Supplier"
+msgstr "Dodávateľ"
+
+#. : Supplier address item panel title with supplier name ({0}) and site code
+#. ({1)}
+#. : Supplier address item panel title with supplier name ({0}) and site code
+#. ({1)}
+#, python-brace-format
+msgid "Supplier address: {0} ({1})"
+msgstr "Adresa dodávateľa: {0} ({1})"
+
+#. : Supplier item panel title with supplier label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Supplier: {0} ({1})"
+msgstr "Dodávateľ: {0} ({1})"
+
+msgid "Switching language ..."
+msgstr "Mením jazyk ..."
+
+msgid "Switching site ..."
+msgstr "Mením stránku ..."
+
+msgid "Tag value (required)"
+msgstr "Hodnota štítku (povinné)"
+
+#. : Tag item panel title with tag label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Tag: {0} ({1})"
+msgstr "Štítok: {0} ({1})"
+
+msgid "Tags"
+msgstr "Štítky"
+
+msgid "Tax rate"
+msgstr "Sadzba dane"
+
+msgid "Tax rate in %"
+msgstr "Sadzba dane v %"
+
+msgid "Telefax"
+msgstr "Fax"
+
+msgid "Telephone"
+msgstr "Telefón"
+
+msgid "Telephone number, e.g. +155512345"
+msgstr "Telefónné číslo, napr. +155512345"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text type"
+msgstr "Typ textu"
+
+#. : Text type item panel title with type label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Text type: {0} ({1})"
+msgstr "Typ textu: {0} ({1})"
+
+#. : Text item panel title with text label ({0}) and site code ({1)}
+#, python-brace-format
+msgid "Text: {0} ({1})"
+msgstr "Text: {0} ({1})"
+
+msgid "Texts"
+msgstr "Texty"
+
+msgid ""
+"The file with the exported texts will be available within a few minutes. It "
+"can then be downloaded from the \"Job\" panel of the \"Overview\" tab."
+msgstr "The file with the exported texts will be available within a few minutes. It can then be downloaded from the \"Job\" panel of the \"Overview\" tab."
+
+msgid ""
+"The texts of your uploaded file will be imported within a few minutes. You "
+"can check the status of the import in the \"Job\" panel of the \"Overview\" "
+"tab"
+msgstr "The texts of your uploaded file will be imported within a few minutes. You can check the status of the import in the \"Job\" panel of the \"Overview\" tab"
+
+msgid "This combination already exists"
+msgstr "Táto kombinácia už existuje"
+
+msgid "Title"
+msgstr "Titulok"
+
+msgid "Total"
+msgstr "Celkom"
+
+msgid "Two letter country code, e.g. \"US\" (required)"
+msgstr "Dvojznakový kód štátu, napr. \"US\" (povinné)"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Types"
+msgstr "Typy"
+
+msgid "URL segment"
+msgstr "Segment URL"
+
+msgid "Unique code (required)"
+msgstr "Unikátny kód (povinné)"
+
+msgid "Upload failed"
+msgstr "Nahrávanie zlyhalo"
+
+msgid "Upload successful"
+msgstr "Nahrávanie úspešné"
+
+msgid "Uploaded"
+msgstr "Nahrané"
+
+msgid "Used by"
+msgstr "Použil "
+
+msgid "User name"
+msgstr "Používateľské meno"
+
+msgid "User name, e.g. e-mail address (required)"
+msgstr "Používateľské meno, napr. e-mail adresa (povinné)"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "Variant attributes"
+msgstr "Atribúty variantu"
+
+msgid "Variants"
+msgstr "Varianty"
+
+msgid "Vat ID"
+msgstr "IČ DPH"
+
+msgid "Vat ID, e.g. \"GB999999999\""
+msgstr "IČ DPH, napr. \"SK999999999\""
+
+msgid "Verification date"
+msgstr "Dátum verifikácie"
+
+msgid "Warehouse"
+msgstr "Sklad"
+
+#. : Product warehouse item panel title with warehouse label ({0}) and site
+#. code ({1)}
+#. : Product warehouse item panel title with warehouse label ({0}) and site
+#. code ({1)}
+#, python-brace-format
+msgid "Warehouse: {0} ({1})"
+msgstr "Sklad: {0} ({1})"
+
+msgid "Web site, e.g. www.example.com"
+msgstr "Web stránka, napr. www.example.com"
+
+msgid "Website"
+msgstr "Web stránka"
+
+msgid "Weight"
+msgstr "Váha"
+
+msgid "Width"
+msgstr "Šírka"
+
+msgid "YYYY-MM-DD (optional)"
+msgstr "d. m. Y (voiteľné)"
+
+msgid "YYYY-MM-DD hh:mm:ss (optional)"
+msgstr "d. m. Y hh:mm:ss (voliteľné)"
+
+msgid "You are going to delete one or more items. Would you like to proceed?"
+msgstr "Chystáte sa zmazať jeden alebo viac položiek. Chcete pokračovať?"
+
+msgid ""
+"You are going to flush the complete cache for the current site. Would you "
+"like to proceed?"
+msgstr "Chystáte sa vyčistiť celý cache pre stránku. Chcete pokračovať?"
+
+msgid "Zip code"
+msgstr "Kód PSČ"
+
+msgid "dashboard"
+msgstr ""
+
+msgid "new"
+msgstr "nové"
+
+msgid "pay:authorized"
+msgstr "pay:authorized"
+
+msgid "pay:canceled"
+msgstr "pay:canceled"
+
+msgid "pay:deleted"
+msgstr "pay:deleted"
+
+msgid "pay:pending"
+msgstr "pay:pending"
+
+msgid "pay:received"
+msgstr "pay:received"
+
+msgid "pay:refund"
+msgstr "pay:refund"
+
+msgid "pay:refused"
+msgstr "pay:refused"
+
+msgid "pay:unfinished"
+msgstr "pay:unfinished"
+
+msgid "product"
+msgstr "Produkt"
+
+msgid "stat:deleted"
+msgstr "stat:deleted"
+
+msgid "stat:delivered"
+msgstr "stat:delivered"
+
+msgid "stat:dispatched"
+msgstr "stat:dispatched"
+
+msgid "stat:lost"
+msgstr "stat:lost"
+
+msgid "stat:pending"
+msgstr "stat:pending"
+
+msgid "stat:progress"
+msgstr "stat:progress"
+
+msgid "stat:refused"
+msgstr "stat:refused"
+
+msgid "stat:returned"
+msgstr "stat:returned"
+
+msgid "stat:unfinished"
+msgstr "stat:unfinished"
+
+msgid "status:archive"
+msgstr "status:archive"
+
+msgid "status:disabled"
+msgstr "status:disabled"
+
+msgid "status:enabled"
+msgstr "status:enabled"
+
+msgid "status:review"
+msgstr "status:review"
+
+msgid "unknown"
+msgstr "neznáme"
+
+msgid "yy-mm-dd"
+msgstr "d. m. YYYY"

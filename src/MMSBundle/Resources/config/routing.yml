@@ -1,0 +1,3 @@
+mms_homepage:
+    path:     /
+    defaults: { _controller: MMSBundle:Default:index }
